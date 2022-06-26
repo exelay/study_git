@@ -1,1 +1,2 @@
-# Just show git to my my friend
+# Just show git to my friend
+Just text for showing changes 
